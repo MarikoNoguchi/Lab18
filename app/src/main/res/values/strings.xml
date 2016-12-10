@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab18</string>
+    <string name="btnNewEmp">new emp</string>
+    <string name="firstName">first name</string>
+    <string name="lastName">last name</string>
+</resources>
